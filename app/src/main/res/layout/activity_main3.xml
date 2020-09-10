@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    tools:context=".MainActivity3">
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:indeterminate="true"
+        android:visibility="gone"/>
+
+    <EditText
+        android:id="@+id/txtDni"
+        android:layout_width="388dp"
+        android:layout_height="40dp"
+        android:layout_margin="10dp"
+        android:ems="10"
+        android:hint="DNI"
+        android:textSize="14sp" />
+
+    <EditText
+        android:id="@+id/txtNombre"
+        android:layout_width="389dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:ems="10"
+        android:hint="Nombre"
+        android:textSize="14sp" />
+
+    <EditText
+        android:id="@+id/txtApellido"
+        android:layout_width="389dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:ems="10"
+        android:hint="Apellido"
+        android:textSize="14sp" />
+
+    <EditText
+        android:id="@+id/txtCodigo"
+        android:layout_width="389dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:ems="10"
+        android:hint="Codigo"
+        android:textSize="14sp" />
+
+    <EditText
+        android:id="@+id/txtDireccion"
+        android:layout_width="389dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:ems="10"
+        android:hint="Direccion"
+        android:textSize="14sp" />
+
+    <EditText
+        android:id="@+id/txtTelefono"
+        android:layout_width="389dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:ems="10"
+        android:hint="Telefono"
+        android:importantForAutofill="no"
+        android:textSize="14sp" />
+
+    <EditText
+        android:id="@+id/txtFechaNacimiento"
+        android:layout_width="389dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:ems="10"
+        android:inputType="date"
+        android:clickable="true"
+        android:maxLines="1"
+        android:focusable="false"
+        android:hint="Fecha de Nacimiento"
+        android:textSize="14sp" />
+
+
+    <EditText
+        android:id="@+id/txtTemasInteres"
+        android:layout_width="389dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:ems="10"
+        android:hint="Temas de Interes"
+        android:textSize="14sp" />
+
+    <EditText
+        android:id="@+id/txtEstado"
+        android:layout_width="389dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:ems="10"
+        android:hint="Estado"
+        android:importantForAutofill="no"
+        android:textSize="14sp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@color/colorPrimary"
+        android:id="@+id/BtnGuardarDatos"
+        android:text="GUARDAR INFORMACION DEL CLIENTE"
+        android:textColor="@android:color/white" />
+
+</LinearLayout>

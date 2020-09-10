@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyAppRentCds</string>
+    <string name="email">Correo</string>
+    <string name="password">Contraseña</string>
+    <string name="forgotPassword">Olvidaste tu contraseña?</string>
+    <string name="firstName">Nombre</string>
+    <string name="lastName">Apellido</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="createAct">Crear cuenta</string>
+    <string name="text">Crear cuenta</string>
+    <string name="BtnGuardarDatos">Crear cuenta</string>
+    <string name="selected_item">Seleccionar Item:</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "185391235274",
+    "firebase_url": "https://myapprentcds.firebaseio.com",
+    "project_id": "myapprentcds",
+    "storage_bucket": "myapprentcds.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185391235274:android:2ba52dab26dc9421d27433",
+        "android_client_info": {
+          "package_name": "com.example.myapprentcds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185391235274-diq7au1e0hda3tm3s5ivvk2b802lpd1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx8EPT7IOzew3Kb7QmDJZkcXBgvnk3Wac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185391235274-diq7au1e0hda3tm3s5ivvk2b802lpd1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
