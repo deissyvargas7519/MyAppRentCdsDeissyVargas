@@ -1,2 +1,2 @@
 # MyAppRentCdsDeissyVargas
-Se agrega el proye de la App de  Alquiler de Cd, Este se realiza con Firebase.
+Se agrega el proyeto de la App de  Alquiler de Cd, Este se realiza con Firebase.
